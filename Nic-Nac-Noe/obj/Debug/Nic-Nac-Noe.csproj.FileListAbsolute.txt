@@ -1,0 +1,10 @@
+D:\Work\Uni\2o etos\3o eksamhno\OOP\FINAL\Nic-Nac-Noe\bin\Debug\Nic-Nac-Noe.exe.config
+D:\Work\Uni\2o etos\3o eksamhno\OOP\FINAL\Nic-Nac-Noe\bin\Debug\Nic-Nac-Noe.exe
+D:\Work\Uni\2o etos\3o eksamhno\OOP\FINAL\Nic-Nac-Noe\bin\Debug\Nic-Nac-Noe.pdb
+D:\Work\Uni\2o etos\3o eksamhno\OOP\FINAL\Nic-Nac-Noe\obj\Debug\Nic-Nac-Noe.csproj.AssemblyReference.cache
+D:\Work\Uni\2o etos\3o eksamhno\OOP\FINAL\Nic-Nac-Noe\obj\Debug\Nic_Nac_Noe.Form1.resources
+D:\Work\Uni\2o etos\3o eksamhno\OOP\FINAL\Nic-Nac-Noe\obj\Debug\Nic_Nac_Noe.Properties.Resources.resources
+D:\Work\Uni\2o etos\3o eksamhno\OOP\FINAL\Nic-Nac-Noe\obj\Debug\Nic-Nac-Noe.csproj.GenerateResource.cache
+D:\Work\Uni\2o etos\3o eksamhno\OOP\FINAL\Nic-Nac-Noe\obj\Debug\Nic-Nac-Noe.csproj.CoreCompileInputs.cache
+D:\Work\Uni\2o etos\3o eksamhno\OOP\FINAL\Nic-Nac-Noe\obj\Debug\Nic-Nac-Noe.exe
+D:\Work\Uni\2o etos\3o eksamhno\OOP\FINAL\Nic-Nac-Noe\obj\Debug\Nic-Nac-Noe.pdb
